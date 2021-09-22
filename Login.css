@@ -1,0 +1,31 @@
+.login{
+    text-align: center;
+  margin-top: 50px;
+}
+.form-fields
+{
+    margin-top: 20px;
+    width: 250px;
+    height: 35px;
+    border: 2px solid #000000;
+}
+.button-login
+{
+    margin-top: 20px;
+    width: 250px;
+    background-color: gray;
+    height: 35px;
+    border: 2px solid gray;
+}
+.or
+{
+    margin-top: 15px;
+}
+.button-register
+{
+    margin-top: 20px;
+    width: 250px;
+    background-color: green;
+    border: 2px solid green;
+    height: 35px;
+}
